@@ -1,0 +1,10 @@
+@CHARSET "UTF-8";
+
+#Daum_map {
+	width : 85%;
+	height:500px;
+	display: block;
+	float: right;
+}
+
+
